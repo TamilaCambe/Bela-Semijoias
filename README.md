@@ -3,7 +3,7 @@
  
 ![Badge](https://img.shields.io/static/v1?label=DEV&message=Tamila&color=850016&style=flat&logo=)
    
-<h2>:eyes: Demonstration <h2>
+<h2> Demonstração: :eyes:<h2>
   
 ![page](https://github.com/TamilaCambe/Bela-Semijoias/blob/main/assets/C%C3%B3pia%20de%20Design%20sem%20nome.gif)
  
@@ -17,7 +17,7 @@ Foi iniciado com Mobile First e depois transformado para Desktop.
 
    Espero que gostem!</p>
    
-## 💻 Technologies used
+## 💻 Tecnologias usadas:
 
  * Visual Studio Code (Code editor);
 
@@ -34,14 +34,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de  NodeJs
 * Você tem uma máquina Windows 
 
-## 🚀 Instalando o projeto 
+## 🚀 Instalando o projeto
 
 Para instalar o projeto, siga estas etapas:
 
 Windows: <br>
 git clone `url`.
 
-## 📫 Contribuindo para o Projeto 
+## 📫 Contribuindo para o Projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com o projeto, siga estas etapas:
 
