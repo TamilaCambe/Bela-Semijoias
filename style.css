@@ -39,6 +39,7 @@
         text-align: center;
         overflow: overlay;
         background-color: var(--bg-light);
+        overflow: overlay;
     }
     
     .wrapper {
